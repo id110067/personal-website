@@ -1,0 +1,193 @@
+.logo {
+  height: 6.25rem;
+  width: 6.25rem;
+}
+
+body {
+  background-color: #FBF8F1;
+}
+
+h1 {
+  font-family: 'Montserrat', 'Open Sans', sans-serif;
+  size: 3rem;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.nav-bar {
+  padding: 2% 7%;
+}
+
+.container-fluid.main-body {
+  padding: 3% 13%;
+}
+
+i {
+  margin-left: 12px;
+}
+
+.profile-photo {
+  height: 25rem;
+  width: 25rem;
+}
+
+.left-main-body {
+  text-align: center;
+}
+
+.right-main-body {
+  text-align: center;
+}
+
+.button-1 {
+  margin-top: 0.625rem;
+  /* margin-right: 0.625rem; */
+}
+
+.button-2 {
+  margin-top: 0.625rem;
+  margin-right: 0.3125rem;
+}
+
+.button-3 {
+  margin-top: 0.625rem;
+  margin-left: 0.3125rem;
+}
+
+.button-4 {
+  margin-top: 0.625rem;
+  /* margin-left: 0.625rem;
+  margin-right: 0.625rem; */
+}
+
+.cv-button {
+  margin-top: 1.5rem;
+}
+
+.fa-cog {
+  color: black;
+}
+
+.icon-cog {
+  color: black;
+}
+
+.html {
+  color: #E45826;
+}
+
+.html:hover {
+  color: #FF9F45;
+}
+
+.css {
+  color: #0E3EDA;
+}
+
+.css:hover {
+  color: #2FA4FF;
+}
+
+.javascript {
+  color: #FFC300;
+}
+
+.javascript:hover {
+  color: #FFE61B;
+}
+
+.bootstrap {
+  color: #5902EC;
+}
+
+.bootstrap:hover {
+  color: #B667F1;
+}
+
+.google-fonts {
+  color: #019267;
+}
+
+.google-fonts:hover {
+  color: #00C897;
+}
+
+.footer {
+  text-align: center;
+  font-size: 0.75rem;
+}
+
+/* education.html */
+.education-profile-photo-1 {
+  height: 32rem;
+  width: 25rem;
+  margin-top: 7rem;
+  margin-bottom: 1rem;
+}
+
+.education-heading {
+  margin-left: 1rem;
+}
+
+.schools-logo {
+  height: 10rem;
+  width: 8rem;
+  /* float: right; */
+}
+
+.skills-points {
+  text-align: left;
+}
+
+.language-points {
+  text-align: left;
+}
+
+.footer-education {
+  float: left;
+  margin-left: 6rem;
+  text-align: center;
+  font-size: 0.75rem;
+}
+
+.footer-follow-me {
+  float: right;
+  margin-right: 6rem;
+}
+
+/* work.html */
+.cs-dept-logo-left {
+  height: 8rem;
+  width: 26rem;
+  text-align: center;
+}
+
+.container-fluid.main-body-work {
+  padding: 3% 8%;
+}
+
+.work-heading {
+  text-align: center;
+}
+
+.hkusa-logo {
+  width: 10rem;
+}
+
+.blockchain-logo {
+  height: 10rem;
+  width: 10rem;
+}
+
+.work-points {
+  text-align: left;
+}
+
+.footer-work {
+  float: left;
+  margin-left: 3rem;
+  text-align: center;
+  font-size: 0.75rem;
+}
